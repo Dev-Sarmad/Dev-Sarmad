@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dev-Sarmad
+- 👋 Hi, I’m Sarmad Habib
 - 👀 I’m interested in HTML/CSS JS React Js
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React Js projects 
